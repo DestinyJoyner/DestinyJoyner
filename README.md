@@ -1,8 +1,6 @@
 
  <br><p align="center">![image](https://user-images.githubusercontent.com/107226235/176044545-500f641a-a0d7-4543-b101-6b3919b63262.png)</p>
-**<p align="center"> A current Pursuit Fellow training to become a Full Stack Web Developer<br>Lover of puzzles and math.<br>Looking to bring software development to the more overlooked areas of society.<br>You can find me testing out a new recipe, jogging, or watching a binge-worthy TV series.  <br><br> ![image](https://user-images.githubusercontent.com/107226235/176040689-094663cc-a9bd-4275-a8ce-82f6ac0856cc.png)</p>**
-
-
+**<p align="center"> A current Pursuit Fellow training to become a Full Stack Web Developer 👩🏽‍💻 <br>Lover of puzzles 🧩 and math.<br>Looking to bring software development to the more overlooked areas of society.<br>You can find me testing out a new recipe 🥘, jogging 🏃🏽‍♀️, or watching a binge-worthy TV series.  <br><br> ![image](https://user-images.githubusercontent.com/107226235/176040689-094663cc-a9bd-4275-a8ce-82f6ac0856cc.png)</p>**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/destiny-joyner-934846243) 
