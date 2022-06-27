@@ -3,7 +3,7 @@
 **<p align="center"> A current Pursuit Fellow training to become a Full Stack Web Developer 👩🏽‍💻 <br>Lover of puzzles 🧩 and math.<br>Looking to bring software development to the more overlooked areas of society.<br>You can find me testing out a new recipe 🥘, jogging 🏃🏽‍♀️, or watching a binge-worthy TV series.  <br><br> ![image](https://user-images.githubusercontent.com/107226235/176040689-094663cc-a9bd-4275-a8ce-82f6ac0856cc.png)</p>**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/destiny-joyner-934846243) 
+[![image](https://user-images.githubusercontent.com/107226235/176050156-32a50da1-26e7-4d11-9eb7-3e8d89d4dd48.png)](https://www.linkedin.com/in/destiny-joyner-934846243) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
