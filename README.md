@@ -3,27 +3,17 @@
 </div>  
   
 
-<div align="center"><br/>Born and raised in Harlem, USA, I've always had a flare for solving math and logic puzzles. <br/><br/>In my spare time, when I'm not coordinating my hats with my clothing, I enjoy tinkering with international recipes, jogging, and gaming. <br/><br/>What I enjoy the most about coding is pushing the limits of what an application can do. I enjoy testing out different functionalities and coding multiple features to provide users with a full (slightly) comical experience each time they visit one of my applications.<br/><img src="https://i.postimg.cc/3wX443rW/laptop-wave.png" alt ="avatar" height="150px" /><br/></div>  
-
-
-
-<div align="center"> 🧑‍🎓 I’m currently a student at <a href="https://github.com/joinpursuit" alt="pursuit">Pursuit</a> (2022-2023). </div> 
-  
-
-#### <div align="center">⚡ Fun facts About Me:</div>  
-  
+<div align="center"><br/>Born and raised in Harlem, USA, I've always had a flare for solving math and logic puzzles. <br/><br/>In my spare time, when I'm not coordinating my hats with my clothing, I enjoy tinkering with international recipes, jogging, and gaming. <br/><br/>What I enjoy the most about coding is pushing the limits of what an application can do. I enjoy testing out different functionalities and coding multiple features to provide users with a full (slightly) comical experience each time they visit one of my applications.<br/><br/>🧑‍🎓 I’m currently a student at <a href="https://github.com/joinpursuit" alt="pursuit">Pursuit</a> (2022-2023)<br/><br/>
+<img src="https://i.postimg.cc/3wX443rW/laptop-wave.png" alt ="avatar" height="150px" />&emsp;
+&emsp;
+<div align="center"><h3>⚡ Fun facts About Me:</h3></div>  
 
 <div align="center">I'm a twin<br/>
-My height === the req. height to access adult rides at amusement parks</div>  
-  
-
-<br/>  
+My height === the req. height to access adult rides at amusement parks</div>  <br/></div>  
 
 
 ### <div align="center">My Skill Set</div> 
 <table align="center"><tr><td valign="top" width="50%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -33,8 +23,6 @@ My height === the req. height to access adult rides at amusement parks</div>
 </div>
 
 </td><td valign="top" width="50%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -46,9 +34,7 @@ My height === the req. height to access adult rides at amusement parks</div>
 
 
 </td></tr></table>  
-
 <br/>  
-
 
 ## <div align="center">Connect With Me!</div> 
 <div align="center">
@@ -60,13 +46,10 @@ My height === the req. height to access adult rides at amusement parks</div>
 </a>  
 </div>  
   
-
 <div align="center"><a href="https://www.codewars.com/users/JoyNERDestiny" rel="some text"><img src="https://i.postimg.cc/j261wwwC/Screenshot-2023-02-05-at-1-54-28-AM.png" height="20px" /></a></div>  
   
 
 <br/>  
-
-
 ## <div align="center">GitHub Stats</div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DestinyJoyner&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
