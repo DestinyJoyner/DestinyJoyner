@@ -3,13 +3,13 @@
 </div>  
   
 
-<div align="center"><br/>Born and raised in Harlem, USA, I've always had a flare for solving math and logic puzzles. <br/><br/>In my spare time, when I'm not coordinating my hats with my clothing, I enjoy tinkering with international recipes, jogging, and gaming. <br/><br/>What I enjoy the most about coding is pushing the limits of what an application can do. I enjoy testing out different functionalities and coding multiple features to provide users with a full (slightly) comical experience each time they visit one of my applications.<br/><br/>🧑‍🎓 I’m currently a student at <a href="https://github.com/joinpursuit" alt="pursuit">Pursuit</a> (2022-2023)<br/><br/>
+<h3 align="center"><br/>Born and raised in Harlem, USA, I've always had a flare for solving math and logic puzzles. <br/><br/>In my spare time, when I'm not coordinating my hats with my clothing, I enjoy tinkering with international recipes, jogging, and gaming. <br/><br/>What I enjoy the most about coding is pushing the limits of what an application can do. I enjoy testing out different functionalities and coding multiple features to provide users with a full (slightly) comical experience each time they visit one of my applications.<br/><br/>🧑‍🎓 I’m currently a student at <a href="https://github.com/joinpursuit" alt="pursuit">Pursuit</a> (2022-2023)<br/><br/>
 <img src="https://i.postimg.cc/3wX443rW/laptop-wave.png" alt ="avatar" height="150px" />&emsp;
 &emsp;
 <div align="center"><h3>⚡ Fun facts About Me:</h3></div>  
 
 <div align="center">I'm a twin<br/>
-My height === the req. height to access adult rides at amusement parks</div>  <br/></div>  
+My height === the req. height to access adult rides at amusement parks</div>  <br/></h3>  
 
 
 ### <div align="center">My Skill Set</div> 
