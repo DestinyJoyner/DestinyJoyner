@@ -9,6 +9,9 @@
 <div align="center"><h3>⚡ Fun facts About Me:</h3></div>  
 
 <div align="center">I'm a twin<br/>
+Despite my small stature and shy demeanor, I have a huge personality!<br/>
+I've watched the full series of The Office and Frasier about 10x!
+  
 </div>  <br/></h3>  
 
 
