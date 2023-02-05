@@ -36,7 +36,7 @@ My height === the req. height to access adult rides at amusement parks</div>  <b
 </td></tr></table>  
 <br/>  
 
-## <div align="center">Connect With Me!</div> 
+### <div align="center">Connect With Me!</div> 
 <div align="center">
 <a href="https://github.com/DestinyJoyner" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -48,9 +48,9 @@ My height === the req. height to access adult rides at amusement parks</div>  <b
   
 <div align="center"><a href="https://www.codewars.com/users/JoyNERDestiny" rel="some text"><img src="https://i.postimg.cc/j261wwwC/Screenshot-2023-02-05-at-1-54-28-AM.png" height="20px" /></a></div>  
   
+<br/> 
 
-<br/>  
-## <div align="center">GitHub Stats</div>  
+### <div align="center">GitHub Stats</div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DestinyJoyner&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
