@@ -9,7 +9,7 @@
 <div align="center"><h3>⚡ Fun facts About Me:</h3></div>  
 
 <div align="center">I'm a twin<br/>
-My height === the req. height to access adult rides at amusement parks</div>  <br/></h3>  
+</div>  <br/></h3>  
 
 
 ### <div align="center">My Skill Set</div> 
