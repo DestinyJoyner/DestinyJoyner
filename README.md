@@ -33,7 +33,7 @@ style="grid-column:1; grid-row:3; border-right: 2px solid white; padding-top:4vh
 style="display:grid; grid-template-columns:repeat(2,1fr);row-gap:30px;column-gap:20px; justify-items:center; align-items:center;">   
 <img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 <img  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" />
-<img  src="https://res.cloudinary.com/practicaldev/image/fetch/s--oGEXGSkH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iu70z7h4vp482ptvsw3d.png" alt="axios" height="60" />
+<!-- <img  src="https://res.cloudinary.com/practicaldev/image/fetch/s--oGEXGSkH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iu70z7h4vp482ptvsw3d.png" alt="axios" height="60" /> -->
 <!-- <img  src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" /> -->
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" alt="CSS3" height="60" />
 
@@ -45,10 +45,10 @@ style="display:grid; grid-template-columns:repeat(2,1fr);row-gap:30px;column-gap
 <div style="grid-column:2; grid-row:3;padding-top:4vh">
 <h2 style="padding-bottom: 20px">Back-End</h2> 
 <div style="display:grid; grid-template-columns:repeat(2,1fr);row-gap:20px;column-gap:15px; justify-items:center; align-items:center;">  
-<img  src="https://cpl.thalesgroup.com/sites/default/files/content/paragraphs/intro/2020-03/postgresql-logo.png" alt="JavaScript" height="60" />
+<img  src="https://cpl.thalesgroup.com/sites/default/files/content/paragraphs/intro/2020-03/postgresql-logo.png" alt="JavaScript" height="60"  />
 <img  src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" alt="Node.js" height="70" />
-<img  src="https://opencollective-production.s3-us-west-1.amazonaws.com/149387c0-712d-11e8-a49d-c7c15c79a92c.png" alt="ex-validator" height="70" />
-<img  src="https://seeklogo.com/images/J/jwt-logo-11B708E375-seeklogo.com.png" alt="jwt" height="50" />
+<img  src="https://opencollective-production.s3-us-west-1.amazonaws.com/149387c0-712d-11e8-a49d-c7c15c79a92c.png" alt="ex-validator" height="60" />
+<img  src="https://cdn.cdnlogo.com/logos/j/20/jwt.svg" alt="jwt" height="50" />
 </div>
 </div>
 <br>
