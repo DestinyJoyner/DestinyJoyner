@@ -13,17 +13,6 @@ style="grid-column:1; grid-row:2">
 </div>  
 </div>
 
-<div  
-width="100%"
-style="grid-column:2; grid-row:2">
-<h2>Codewars</h2>
-<div>
-<a href="https://www.codewars.com/users/JoyNERDestiny" target="_blank">
-<img src=https://w7.pngwing.com/pngs/477/603/png-transparent-codewars-button-icon.png alt=linkedin style="margin-top: 2vh; width:120px" />
-</a>  
-</div>  
-</div>
-
 <br>
 
 <div 
