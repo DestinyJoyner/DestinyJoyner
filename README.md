@@ -8,7 +8,12 @@ Currently on a mission to conquer my video game addiction, one day at a time –
 
 Tech is my playground, and I'm here to wow, inspire, and create change. Let's build something awesome together! 💻✨ #CodeAndChill"
   </p>
+
   <div width="100%" style="grid-column:1; grid-row:2">
+    <h2>Check Out My Project inIT!</h2>
+     <div>
+      <a href="https://init-job-search-engine.netlify.app/"><img src="https://i.ibb.co/YNSPn50/init-logo.png" alt="init-logo" border="0"></a>
+    </div>  
     <h2>Connect With Me</h2>
     <div>
       <a href="https://linkedin.com/in/destiny-joyner-934846243/" target="_blank">
